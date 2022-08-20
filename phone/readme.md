@@ -1,4 +1,4 @@
-# gartic/phone/readme.txt
+# gartic/phone/readme.md
 
 ``gartic/phone/`` 是一个专门用来储存``东方 Gartic 生草地``传话游戏记录图片的文件夹.
 
