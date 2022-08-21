@@ -1,2 +1,2 @@
 # gartic
-For A QQ Group about Gartic &amp; Touhou
+For a QQ Group about Gartic &amp; Touhou
